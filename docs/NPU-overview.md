@@ -19,6 +19,6 @@
 14. Naslednji korak — izberi poglavje (številka 1–13) za poglobljen zapis, diagram in praktično nalogo
 
 Priložena slika (tvoj mind‑map)
-![NPU mindmap](assets/npu-mindmap.png)
+![NPU mindmap](npu-presentation/assets/npu-mindmap.png)
 
 Opomba: naloži priloženo sliko v repozitorij pod potjo assets/npu-mindmap.png, da se prikaže v dokumentu.
